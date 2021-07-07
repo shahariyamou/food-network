@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 200px;
 }
 .half-width{
     width: 50%;
@@ -24,4 +25,7 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 5pc;
+}
+.about-me{
+    background-image: url(images/shapes/Frame\ 58.jpg);
 }
